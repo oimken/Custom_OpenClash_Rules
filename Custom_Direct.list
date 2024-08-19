@@ -1,0 +1,95 @@
+# ImmortalWrt 在线更新服务
+DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+# ImmortalWrt 软件仓库
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,vsean.net
+# OpenWrt AI 站点
+DOMAIN-SUFFIX,openwrt.ai
+# VPS
+IP-CIDR,129.153.108.78/32,no-resolve
+IP-CIDR,132.226.159.181/32,no-resolve
+IP-CIDR,129.146.222.181/32,no-resolve
+DOMAIN-SUFFIX,oraclecloud.com
+# 美的智能家居
+DOMAIN-SUFFIX,midea.com
+DOMAIN-SUFFIX,smartmidea.net
+# 9号电动车
+DOMAIN-SUFFIX,ninebot.com
+# 时间服务器
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,ntp.ubuntu.com
+# 其他
+*.mynrs.link
+*.332695.xyz
+*.251232.xyz
+*.mynrs.site
+# 腾讯云
+DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,tencentcloudapi.com
+# notion 服务
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion-static.com
+# 电信
+DOMAIN-SUFFIX,10000gd.tech
+# 涂鸦自习室售卖机
+DOMAIN-SUFFIX,fanmingming.com
+DOMAIN-SUFFIX,jdshipin.com
+DOMAIN-SUFFIX,splunkcloud.com
+DOMAIN-SUFFIX,vzuu.com
+DOMAIN-SUFFIX,cdnhwc2.com
+DOMAIN-SUFFIX,tuyacn.com
+DOMAIN-SUFFIX,getui.net
+DOMAIN-SUFFIX,xycdn.com
+DOMAIN-SUFFIX,lufff.com
+DOMAIN-SUFFIX,haoyuexia.com
+DOMAIN-SUFFIX,iotwish.com
+DOMAIN-SUFFIX,xiaoyi.com
+DOMAIN-SUFFIX,qxwz.com
+DOMAIN-SUFFIX,uhabo.com
+DOMAIN-SUFFIX,lanfeitech.com
+DOMAIN-SUFFIX,dailygn.com
+DOMAIN-SUFFIX,bfvvs.com
+DOMAIN-SUFFIX,ymuuy.com
+DOMAIN-SUFFIX,cococut.net
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,zdassets.com
+# 快手
+DOMAIN-SUFFIX,etoote.com
+DOMAIN-SUFFIX,kwai.com
+# Newtv
+DOMAIN-SUFFIX,ottcn.com
+DOMAIN-SUFFIX,gitv.tv
+# Todesk
+DOMAIN-SUFFIX,todesk.com
+# 菜鸟
+DOMAIN-SUFFIX,cainiao.com
+# 小众软件论坛
+DOMAIN-SUFFIX,appinn.net
+# Emby 小雅 相关
+DOMAIN-SUFFIX,ddsrem.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ggbond.org
+DOMAIN-SUFFIX,nn.ci
+DOMAIN-SUFFIX,xhofe.top
+DOMAIN-SUFFIX,xiaoyakeeper.u.1996999.xyz
+DOMAIN-SUFFIX,wwwh.eu.org
+# 微软相关
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,bing.net
+# 三星
+DOMAIN-SUFFIX,samsungconnectivity.com
+# 未知
+DOMAIN-SUFFIX,shifen.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,xfinfr.com
+DOMAIN-SUFFIX,bytemastatic.com
+DOMAIN-SUFFIX,searchpstatp.com
+DOMAIN-SUFFIX,chinanetcenter.com
+DOMAIN-SUFFIX,bytemastatic.com
+DOMAIN-SUFFIX,nzypic.vip
+DOMAIN-SUFFIX,hmrvideo.com
